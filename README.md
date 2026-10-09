@@ -4,7 +4,7 @@
 
 Step by Step keeps savings targets, due dates, and contributions together so progress is easy to check and update.
 
-**GitHub Pages URL:** https://a2rp.github.io/savings-goal-tracker/ (planned after deployment)
+Deployed site: https://a2rp.github.io/savings-goal-tracker/
 
 ## Included
 
